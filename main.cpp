@@ -1,3 +1,4 @@
+//Dawid Krynski, grupa nr 2, zestaw 4, zadanie 2, 02.06.2023 
 #include <iostream>
 
 #include <vector>
