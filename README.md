@@ -1,6 +1,6 @@
 ## Zestaw 5
 
-Rozwiazanie zestawu 5
+Autor : Dawid Krynski, grupa nr 2, zestaw 4, zadanie 2, 11.06.2023  
 
 ## Opis Programu
 
