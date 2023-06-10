@@ -8,7 +8,7 @@ program został napisany w języku C++. Demonstruje działanie klas, w jaki spos
 
 ## Instalacja
 
-Aby zainstalować ten plik należy pobrać zawartośc repozytorium do jednego katalogu i następnie skompilować plik main.cpp razem z własnym plikiem nagłówkowym class.h
+Aby zainstalować ten plik należy pobrać zawartośc repozytorium do jednego katalogu i następnie skompilować plik main.cpp razem z zawartym tu plikiem nagłówkowym class.h oraz class.cpp. Można oczywisćie użyć samej biblioteki bez pliku main do innego programu.
 
 ## Użycie
 
