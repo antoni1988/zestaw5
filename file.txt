@@ -1,0 +1,9 @@
+80 26
+circle 10 6 1 5
+circle 13 9 2 5
+circle 16 6 3 5
+circle 19 9 4 5
+square 15 5 A 5
+square 5 15 B 5
+triangle 25 5 $ 10 5
+squareOutline 40 5 * 5
