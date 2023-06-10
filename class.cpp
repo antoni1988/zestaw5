@@ -82,7 +82,7 @@ void Circle::draw(ASCIICanvas & c) const {
   int centerY = x;
   //std::cout<<"Circle x:"<<x<<"y:"<<y<<"char:"<<symbol<<"radius:"<<radius<<std::endl;
 
-  for (int i = 0; i <= radius * 0.7071 f; ++i) {
+  for (int i = 0; i <= radius * 0.7071f; ++i) {
     int j = std::round(std::sqrt(radius * radius - i * i));
 
     c.setCharacter(j + centerY, i + centerX, symbol);
